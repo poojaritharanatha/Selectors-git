@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(40, 184, 184);
+}
+#head{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.head1{
+    background-color: brown;
+    color: rgb(187, 187, 199);
+}
+
+h2,h3{
+    background-color: rgb(255, 255, 0);
+    color: red;
+}
+
+h4,h5{background-color: rgb(65, 205, 79) ; color:rgb(125, 30, 49)}
